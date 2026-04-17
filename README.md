@@ -1,6 +1,9 @@
-# OpenVinylCutter - The First Free Standalone Opensource Vinyl Cutting Software (Currently only for Windows)
+# OpenVinylCutter - The First Free Standalone Opensource Vinyl Cutting Software (Currently only for Windows) (ALPHA)
 
 <img width="1200" height="567" alt="banner" src="https://github.com/user-attachments/assets/cf964937-6173-4c45-a65d-82bf684fc1f5" />
+
+# UI
+<img width="1194" height="803" alt="OVC" src="https://github.com/user-attachments/assets/e0783e01-f9bc-48c6-8311-d87e0b5048ca" />
 
 # With Quick Export From Adobe Illustrator Script
 https://github.com/user-attachments/assets/729d6c25-6f31-41c8-91c5-2c5c943e956d
