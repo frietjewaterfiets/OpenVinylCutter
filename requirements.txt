@@ -1,0 +1,4 @@
+pyserial>=3.5
+svgelements>=1.9.6
+pywin32>=311
+tkinterdnd2>=0.4.2
