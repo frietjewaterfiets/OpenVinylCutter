@@ -7,18 +7,15 @@ I hope people that some smart-than-me vinyl cutters, maybe want to test this, tw
 And i can't be the only one. So lets create one together for the community! I tested this mostly with my Secabo S60, but maybe it can also work with other cutters that understand HPGL.
 
 ## Before you start
-
 You do need Python for this app.
-
 Make sure Python 3 is installed on your system before running `start_app.bat`.
 
 You can download Python here:
 [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 When installing Python on Windows, make sure to enable:
-
 - `Add Python to PATH`
-
+- 
 If Python is not installed, `start_app.bat` will not work.
 
 ## Installation
