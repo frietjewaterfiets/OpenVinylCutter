@@ -1,5 +1,10 @@
 <img width="1200" height="567" alt="banner" src="https://github.com/user-attachments/assets/cf964937-6173-4c45-a65d-82bf684fc1f5" />
 
+https://github.com/user-attachments/assets/729d6c25-6f31-41c8-91c5-2c5c943e956d
+
+<img width="1195" height="739" alt="Screenshot_1" src="https://github.com/user-attachments/assets/6eaed7ab-9887-465b-907c-d89c72019699" />
+
+
 # OpenVinylCutter
 This is a small little thing I made because I got tired of paying for a full 1-year subscription, just to cut some vinyl once in a while.
 **This app aint perfect. Not even close maybe.** But it already works pretty nice for me, so I still wanted to put it on GitHub.
@@ -173,5 +178,3 @@ Pretty simple.
 I just wanted to cut vinyl without having to pay for software again that I barely use.
 So this project is mostly for people like me.
 If you know more than me and want to improve this little piece of software, then please do so! But you CANNOT sell this. We need all smart vinyl cutters to come together and create THE BEST FREE SOFTWARE!
-
-<img width="1195" height="739" alt="Screenshot_1" src="https://github.com/user-attachments/assets/6eaed7ab-9887-465b-907c-d89c72019699" />
