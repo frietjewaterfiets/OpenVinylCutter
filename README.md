@@ -1,3 +1,5 @@
+# OpenVinylCutter - The First Free Standalone Opensource Vinyl Cutting Software (Currently only for Windows)
+
 <img width="1200" height="567" alt="banner" src="https://github.com/user-attachments/assets/cf964937-6173-4c45-a65d-82bf684fc1f5" />
 
 https://github.com/user-attachments/assets/729d6c25-6f31-41c8-91c5-2c5c943e956d
