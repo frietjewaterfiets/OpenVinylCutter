@@ -1,4 +1,4 @@
-<img width="1118" height="510" alt="ovc-logo" src="https://github.com/user-attachments/assets/5006e2d3-8613-41b6-bae5-93fe39c1cba8" />
+<img width="1200" height="567" alt="banner" src="https://github.com/user-attachments/assets/cf964937-6173-4c45-a65d-82bf684fc1f5" />
 
 # OpenVinylCutter
 This is a small little thing I made because I got tired of paying for a full 1-year subscription, just to cut some vinyl once in a while.
