@@ -1,7 +1,7 @@
 # OpenVinylCutter
 
 This is a small little thing I made because I got tired of paying for a full 1-year subscription, just to cut some vinyl once in a while.
-This app aint perfect. Not even close maybe. But it already works pretty nice for me, so I still wanted to put it on GitHub.
+**This app aint perfect. Not even close maybe.** But it already works pretty nice for me, so I still wanted to put it on GitHub.
 I hope people that some smart-than-me vinyl cutters, maybe want to test this, tweak this, and help make this project better. Because i could'nt find a good free easy open-sourced software. 
 And i can't be the only one. So lets create one together for the community! I tested this mostly with my Secabo S60, but maybe it can also work with other cutters that understand HPGL.
 
