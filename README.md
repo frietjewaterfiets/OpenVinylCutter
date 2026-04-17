@@ -82,7 +82,10 @@ If the shape is correct, but the size is wrong in real life, this is usually the
 
 ### `Try this to get your needed HPGL Units/mm:`
 Make a little svg file of a simple 50x50mm square, send it to your cutter, and then measure the outcome.
-Then use this formula: new HPGL value = current value x (wanted size / measured size).
+
+**Then use this formula: **
+`new HPGL value = current value x (wanted size / measured size).`
+
 For example: In my case, my cutout square turned out to be around 37x37mm, instead of 50x50mm.
 So i did: 40 x (50 / 37) = 54.05. I tried putting in 54.1, and man oh man, Hallaluja, it worked perfectly.
 
