@@ -15,7 +15,7 @@ You can download Python here:
 
 When installing Python on Windows, make sure to enable:
 - `Add Python to PATH`
-- 
+  
 If Python is not installed, `start_app.bat` will not work.
 
 ## Installation
