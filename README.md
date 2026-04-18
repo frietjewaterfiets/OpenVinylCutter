@@ -10,6 +10,7 @@ https://github.com/user-attachments/assets/729d6c25-6f31-41c8-91c5-2c5c943e956d
 
 <img width="1195" height="739" alt="Screenshot_1" src="https://github.com/user-attachments/assets/6eaed7ab-9887-465b-907c-d89c72019699" />
 
+<img width="1352" height="698" alt="systemofadown" src="https://github.com/user-attachments/assets/f4d72b1f-88bb-4770-8542-68215346ec32" />
 
 # OpenVinylCutter - Currently only for Windows
 This is a small little thing I made because I got tired of paying for a full 1-year subscription, just to cut some vinyl once in a while.
